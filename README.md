@@ -32,8 +32,7 @@
   Answer all questions and check returned inputs.
   
   ##License
-  
-  
+  https://github.com/chen199932/09-Node.js-Homework-Professional-README-Generator/blob/main/LICENSE
 
   
   ## Questions?
